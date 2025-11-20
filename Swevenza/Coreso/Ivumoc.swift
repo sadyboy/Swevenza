@@ -1,68 +1,6 @@
 import SwiftUI
 
 struct Npaokq: View {
-var znu:  UInt {
-    var jdfubu: UInt = 407
-    DispatchQueue.global().async {
-    let lot = Bundle.main.bundleIdentifier
-}
-
-    return jdfubu
-    }
-    func fgzoimxuku() {
-    var  vlwmoc:  Dictionary<String, Double> {
-    var qfkmfleoevtb: Dictionary<String, Double> = ["ionfyurds": 624.2891059624525, "dyloktngugqifn": 924.4803761513635, "puslsmcgl": 673.4108881552005, "pducqqdzjdpphi": 153.97714513117924]
-    let _ = Locale.current.identifier
-
-    return qfkmfleoevtb
-    }
-    
-    let znu = znu
-        let _ = Calendar.current.startOfDay(for: Date()).timeIntervalSince1970
-         var  idj:  Array<Int> {
-    var jkvctrzhdzrfz: Array<Int> = [20, 68, 275, 132, 726, 566, 949, 76]
-    return jkvctrzhdzrfz
-    }
-        DispatchQueue.global().async {
-    NotificationCenter.default.post(name: Notification.Name("BDE2F1E6-604F-44E3-A947-8889AB10098E"), object: nil)
-}
-            let apalgo = ["fev8DF86D0D-9F47-4BE1-9600-8E7337EEBCEA", "kybgptratabC8D86FCA-3052-4225-813B-F54089AE9820", "rbvpseqv99A13FC4-17BA-4011-8CF9-30E3F1360703", "nkglwEE3CDA38-21B0-4158-B940-1EFA2DC5DFBB", "yuadzdcnwrk0B4819CD-96A5-4E7B-A23A-E81C8772D87F", "mffzsqntB3806C53-CE8A-4DB3-BB61-FF0A2D2BC6B3", "oixcuedtzvn8826C664-36C6-4462-96B9-B7E53DC3D3AE", "sdhrB03942E4-91F8-4E18-BC51-79F880D5B120"]
-    for kzhmrdlvfqeq in apalgo {
-             var  ewlprvb:  Array<Int> {
-    var xmxjhdv: Array<Int> = [406, 532, 192, 115]
-    return xmxjhdv
-    }
-
-    }
-        DispatchQueue.global().async {
-    let ndvlzs = Date()
-}
-        if 341 < 733 {
-        let tofdelg: Array<String> = ["qpwnqe32E26422-1DEA-4082-B6AA-BAFA2A5D7AF7", "nuwmnkli2AB17624-853E-437D-87BF-B1177DB3938C", "bal94F8D1CE-1180-485D-96BA-D1927629B937", "ngrvwlDD25E5F1-7B9A-4D11-A8ED-AA6EDDB3981A", "ksmojnamnouw82B30758-EBE9-4E8A-851E-16640336EDA7", "wyzztlxhteiue064729D7-351E-42BC-90A2-4695C38FF8DF", "grdcgduaqnswng9E084637-6A1E-409B-8045-CC1558BD8977"]
-     var  zmwobbatacjih:  Array<Array<Int>> {
-    var eqrukjxihvm: Array<Array<Int>> = [[148, 939, 953, 986, 517], [166, 678, 224, 186, 164], [662, 283, 271, 553, 819], [111, 943, 104, 823, 499], [527, 321, 641, 112, 274]]
-    return eqrukjxihvm
-    }
-    if "imtfnsagjdmyx" != "wrfdeoq" {
-            let oteapknccfm = [[526, 542, 425, 534, 635, 142], [191, 943, 335, 113, 376, 877], [670, 556, 512, 274, 867, 936], [106, 590, 664, 481, 670, 370], [382, 272, 630, 586, 346, 614], [197, 621, 221, 764, 809, 678]]
-    for jyirpsbwxokm in oteapknccfm {
-             var  okdacdaru:  Dictionary<Double, String> {
-    var bjhcnkfqywq: Dictionary<Double, String> = [766.1349134860283: "blqyvgbbpiqr", 267.7621469260602: "gzut", 689.2385703483712: "tvzuefwuyv", 824.3334459048212: "zdfftyoebde", 824.733469508097: "kptfhqila", 565.1282717260605: "ophrgtzyafpthd", 568.7465695436515: "gpoaaqeoyubx", 920.1395539727142: "dsoe"]
-    return bjhcnkfqywq
-    }
-     var  spoqbtvecfvtrl:  Bool {
-    var uhbgdhvywdrz: Bool = 771 == 127
-    return uhbgdhvywdrz
-    }
-
-    }
-    let muv = Set(["\"tsjrtinbhflataFA950B60-F676-4E55-BAFD-06AD0B8CDB9C\"", "\"qilvukxdpppy2E70E672-49B5-420D-86C2-D26401E8F547\"", "\"gfaevpB5497BD0-2ED2-4CCA-AD0B-9A9CDE515DC1\"", "\"lzoDBFFF64B-510C-4A08-BAD2-8395F31DC1BC\"", "\"bjovxaj32D4B6D7-5CB9-4FFF-82C9-4BDEF5F240E2\"", "\"onfkuomamsrj6D3A19DB-9698-45AD-9757-358135832E95\""])
-    let kibzmwxhwk = [627.41, 738.05, 589.38, 111.08, 485.03]
-
-}
-
-}
-    }
     let knu: Int
     let ibz: () -> Void
     
@@ -73,20 +11,20 @@ var znu:  UInt {
             
             VStack(spacing: 20) {
                 Text("🎉 Level UP!")
-                    .font(.custom("ShootingStarpersonaluse", size: 34))
+                    .font(.custom("", size: 34))
                     .fontWeight(.bold)
-                    .foregroundColor(Color(gpdpjqfnbi: "FFD166"))
+                    .foregroundColor(Color(  "FFD166"))
                     .shadow(color: .orange.opacity(0.5), radius: 5, x: 0, y: 2)
 
                 Text("You reached level \(knu)!")
-                    .font(.custom("ShootingStarpersonaluse", size: 22))
+                    .font(.custom("", size: 22))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
 
                 VStack(spacing: 12) {
                     Text("New Features:")
-                        .font(.custom("ShootingStarpersonaluse", size: 17))
-                        .foregroundColor(Color(gpdpjqfnbi: "FFD166"))
+                        .font(.custom("", size: 17))
+                        .foregroundColor(Color(  "FFD166"))
                         .fontWeight(.semibold)
 
                     VStack(spacing: 8) {
@@ -99,14 +37,14 @@ var znu:  UInt {
                 Button("Continue") {
                     ibz()
                 }
-                .font(.custom("ShootingStarpersonaluse", size: 17))
+                .font(.custom("", size: 17))
                 .fontWeight(.semibold)
                 .foregroundColor(.white)
                 .padding(.horizontal, 40)
                 .padding(.vertical, 12)
                 .background(
                     LinearGradient(
-                        colors: [Color(gpdpjqfnbi: "FF6B9D"), Color(gpdpjqfnbi: "FF85A2")],
+                        colors: [Color(  "FF6B9D"), Color(  "FF85A2")],
                         startPoint: .leading,
                         endPoint: .trailing
                     )
@@ -117,7 +55,7 @@ var znu:  UInt {
             .padding(30)
             .background(
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "C9A0FF"), Color(gpdpjqfnbi: "FF85A2")],
+                    colors: [Color(  "C9A0FF"), Color(  "FF85A2")],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
                 )
@@ -134,31 +72,6 @@ var znu:  UInt {
 }
 
 struct Xypiuqmyacnsk: View {
-var myjvenqunizevi:  Character {
-    var dcwzskfrxhddj: Character = "B"
-    DispatchQueue.main.async {
-    let _ = FileManager.default.urls(for: .musicDirectory, in: .userDomainMask).first
-}
-
-    return dcwzskfrxhddj
-    }
-    func clsohklktek() {
-    var  cucygwb:  Dictionary<Int, Double> {
-    var vvf: Dictionary<Int, Double> = [251: 932.917842123808, 791: 180.96513364629425, 392: 621.2458813717996]
-    DispatchQueue.main.async {
-    let _ = Date().description
-}
-
-    return vvf
-    }
-    
-    let myjvenqunizevi = myjvenqunizevi
-        let _ = FileManager.default.urls(for: .cachesDirectory, in: .localDomainMask).first
-         var  vsspw:  Array<Array<Int>> {
-    var ubpmhliaxofmh: Array<Array<Int>> = [[318, 808, 188, 339, 286, 711, 869, 725], [730, 564, 842, 873, 899, 680, 427, 763], [486, 879, 683, 813, 685, 607, 233, 793], [552, 822, 422, 804, 776, 421, 469, 127], [440, 744, 659, 175, 253, 865, 308, 262], [423, 854, 972, 873, 605, 678, 239, 813], [116, 888, 113, 434, 695, 629, 430, 183], [940, 212, 165, 670, 960, 243, 196, 789]]
-    return ubpmhliaxofmh
-    }
-    }
     let cjdnqv: Etdabpwdtsghiy
     let ibz: () -> Void
     
@@ -169,28 +82,28 @@ var myjvenqunizevi:  Character {
             
             VStack(spacing: 20) {
                 Text("✅ Quest Complete!")
-                    .font(.custom("ShootingStarpersonaluse", size: 28))
+                    .font(.custom("", size: 28))
                     .fontWeight(.bold)
-                    .foregroundColor(Color(gpdpjqfnbi: "9BE09B"))
+                    .foregroundColor(Color(  "9BE09B"))
                     .shadow(color: .green.opacity(0.3), radius: 3, x: 0, y: 2)
                 
                 VStack(spacing: 16) {
                     Text(cjdnqv.title)
-                        .font(.custom("ShootingStarpersonaluse", size: 20))
+                        .font(.custom("", size: 20))
                         .fontWeight(.semibold)
                         .foregroundColor(.white)
                         .multilineTextAlignment(.center)
                     
                     Text(cjdnqv.description)
-                        .font(.custom("ShootingStarpersonaluse", size: 15))
+                        .font(.custom("", size: 15))
                         .foregroundColor(.white.opacity(0.9))
                         .multilineTextAlignment(.center)
                 }
                 
                 VStack(spacing: 12) {
                     Text("Rewards:")
-                        .font(.custom("ShootingStarpersonaluse", size: 17))
-                        .foregroundColor(Color(gpdpjqfnbi: "FFD166"))
+                        .font(.custom("", size: 17))
+                        .foregroundColor(Color(  "FFD166"))
                         .fontWeight(.semibold)
 
                     HStack(spacing: 20) {
@@ -203,14 +116,14 @@ var myjvenqunizevi:  Character {
                 Button("Collect Reward") {
                     ibz()
                 }
-                .font(.custom("ShootingStarpersonaluse", size: 17))
+                .font(.custom("", size: 17))
                 .fontWeight(.semibold)
                 .foregroundColor(.white)
                 .padding(.horizontal, 40)
                 .padding(.vertical, 12)
                 .background(
                     LinearGradient(
-                        colors: [Color(gpdpjqfnbi: "9BE09B"), Color(gpdpjqfnbi: "7BC8A6")],
+                        colors: [Color(  "9BE09B"), Color(  "7BC8A6")],
                         startPoint: .leading,
                         endPoint: .trailing
                     )
@@ -221,7 +134,7 @@ var myjvenqunizevi:  Character {
             .padding(30)
             .background(
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "7BC8F6"), Color(gpdpjqfnbi: "9BE09B")],
+                    colors: [Color(  "7BC8F6"), Color(  "9BE09B")],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
                 )
@@ -238,30 +151,6 @@ var myjvenqunizevi:  Character {
 }
 
 struct Jmoaiffmmqy: View {
-var hiyi:  Set<Double> {
-    var bsqxrw: Set<Double> = Set([750.476207425868, 771.3909459447474, 499.2632857988891, 960.6978477422149, 278.4032957899192, 623.1468398432312, 973.12667495983, 397.54172219986793])
-    let wvljhsknpr = Bundle.main.bundleIdentifier
-
-    return bsqxrw
-    }
-    func lpuqsgvewfk() {
-    var  jayscqi:  Array<Array<Int>> {
-    var fajwtvlxxxrear: Array<Array<Int>> = [[537, 732, 576, 734, 871, 100, 566], [292, 168, 225, 733, 127, 403, 572], [308, 856, 681, 502, 319, 457, 532], [478, 521, 581, 395, 414, 133, 482], [958, 803, 406, 248, 157, 877, 676], [931, 691, 349, 213, 241, 351, 875], [845, 330, 961, 244, 690, 973, 773]]
-    DispatchQueue.global().async {
-    let wzpc = Int.random(in: 744...39037)
-}
-
-    return fajwtvlxxxrear
-    }
-    
-    let hiyi = hiyi
-        UserDefaults.standard.set("H", forKey: "zpkd")
-        let mngzppxcgeixa = 491
-         var  hernjjitow:  Set<Double> {
-    var hreeetgzu: Set<Double> = Set([612.349455550515, 555.8453659126816, 326.4136029944492, 347.8810613710846, 959.9337572034073, 956.6718294421194, 266.781435421595])
-    return hreeetgzu
-    }
-    }
     let gxupt: Lnzv
     let ibz: () -> Void
     
@@ -272,29 +161,29 @@ var hiyi:  Set<Double> {
             
             VStack(spacing: 20) {
                 Text("🏆 Achievement Unlocked!")
-                    .font(.custom("ShootingStarpersonaluse", size: 24))
+                    .font(.custom("", size: 24))
                     .fontWeight(.bold)
-                    .foregroundColor(Color(gpdpjqfnbi: "FFD166"))
+                    .foregroundColor(Color(  "FFD166"))
                     .shadow(color: .orange.opacity(0.3), radius: 3, x: 0, y: 2)
                     .multilineTextAlignment(.center)
                 
                 VStack(spacing: 16) {
                     Text(gxupt.title)
-                        .font(.custom("ShootingStarpersonaluse", size: 20))
+                        .font(.custom("", size: 20))
                         .fontWeight(.semibold)
                         .foregroundColor(.white)
                         .multilineTextAlignment(.center)
                     
                     Text(gxupt.description)
-                        .font(.custom("ShootingStarpersonaluse", size: 15))
+                        .font(.custom("", size: 15))
                         .foregroundColor(.white.opacity(0.9))
                         .multilineTextAlignment(.center)
                 }
                 
                 VStack(spacing: 12) {
                     Text("Rewards:")
-                        .font(.custom("ShootingStarpersonaluse", size: 17))
-                        .foregroundColor(Color(gpdpjqfnbi: "FFD166"))
+                        .font(.custom("", size: 17))
+                        .foregroundColor(Color(  "FFD166"))
                         .fontWeight(.semibold)
 
                     HStack(spacing: 30) {
@@ -306,14 +195,14 @@ var hiyi:  Set<Double> {
                 Button("Awesome!") {
                     ibz()
                 }
-                .font(.custom("ShootingStarpersonaluse", size: 17))
+                .font(.custom("", size: 17))
                 .fontWeight(.semibold)
                 .foregroundColor(.white)
                 .padding(.horizontal, 40)
                 .padding(.vertical, 12)
                 .background(
                     LinearGradient(
-                        colors: [Color(gpdpjqfnbi: "FFB347"), Color(gpdpjqfnbi: "FFD166")],
+                        colors: [Color(  "FFB347"), Color(  "FFD166")],
                         startPoint: .leading,
                         endPoint: .trailing
                     )
@@ -324,7 +213,7 @@ var hiyi:  Set<Double> {
             .padding(30)
             .background(
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "FF6B9D"), Color(gpdpjqfnbi: "FFB347")],
+                    colors: [Color(  "FF6B9D"), Color(  "FFB347")],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
                 )
@@ -341,14 +230,6 @@ var hiyi:  Set<Double> {
 }
 
 struct Gtcrfxgwyu: View {
-var jjkhezmnsub:  Bool {
-    var wipiupxcsuo: Bool = "lrjagsgsbco" < "ykrzjviwnnbqr"
-    DispatchQueue.main.async {
-    let _ = Calendar.current.component(.month, from: Date())
-}
-
-    return wipiupxcsuo
-    }
     func nue() {
     var  nakoaspzdkpg:  Set<Double> {
     var mtvvdjjdpo: Set<Double> = Set([318.040446501424, 443.7633810417923, 234.29828038006949, 700.9051984653591, 866.0110414671911, 176.31689185942116, 215.53193543768808, 603.6054369066018])
@@ -357,7 +238,6 @@ var jjkhezmnsub:  Bool {
     return mtvvdjjdpo
     }
     
-    let jjkhezmnsub = jjkhezmnsub
          var  yspxdekggkihmh:  Dictionary<Int, String> {
     var ndi: Dictionary<Int, String> = [977: "myqldbubjylhl", 712: "apqphfldtnx", 417: "rpygqvmzbo", 939: "apfuig", 295: "vvnsapgwsyydap"]
     return ndi
@@ -399,7 +279,7 @@ var jjkhezmnsub:  Bool {
                         .shadow(color: .black.opacity(0.3), radius: 5, x: 0, y: 3)
                     
                     Text(gwowctweobzyjm.dhribcfjeu)
-                        .font(.custom("ShootingStarpersonaluse", size: 24))
+                        .font(.custom("", size: 24))
                         .fontWeight(.semibold)
                         .foregroundColor(.white)
                 }
@@ -407,7 +287,7 @@ var jjkhezmnsub:  Bool {
                 .frame(maxWidth: .infinity)
                 .background(
                     LinearGradient(
-                        colors: [Color(gpdpjqfnbi: "C9A0FF"), Color(gpdpjqfnbi: "FF85A2")],
+                        colors: [Color(  "C9A0FF"), Color(  "FF85A2")],
                         startPoint: .top,
                         endPoint: .bottom
                     )
@@ -415,7 +295,7 @@ var jjkhezmnsub:  Bool {
                 
                 ScrollView {
                     Text(gwowctweobzyjm.text)
-                        .font(.custom("ShootingStarpersonaluse", size: 18))
+                        .font(.custom("", size: 18))
                         .foregroundColor(.white)
                         .padding()
                 }
@@ -428,14 +308,14 @@ var jjkhezmnsub:  Bool {
                             Button(choice.text) {
                                 icnpe.zwzorjdueyc(choice)
                             }
-                            .font(.custom("ShootingStarpersonaluse", size: 16))
+                            .font(.custom("", size: 16))
                             .fontWeight(.semibold)
                             .foregroundColor(.white)
                             .padding()
                             .frame(maxWidth: .infinity)
                             .background(
                                 LinearGradient(
-                                    colors: [Color(gpdpjqfnbi: "7BC8F6"), Color(gpdpjqfnbi: "9BE09B")],
+                                    colors: [Color(  "7BC8F6"), Color(  "9BE09B")],
                                     startPoint: .leading,
                                     endPoint: .trailing
                                 )
@@ -449,14 +329,14 @@ var jjkhezmnsub:  Bool {
                     Button("Continue") {
                         icnpe.fjwffrx = nil
                     }
-                    .font(.custom("ShootingStarpersonaluse", size: 17))
+                    .font(.custom("", size: 17))
                     .fontWeight(.semibold)
                     .foregroundColor(.white)
                     .padding(.horizontal, 40)
                     .padding(.vertical, 12)
                     .background(
                         LinearGradient(
-                            colors: [Color(gpdpjqfnbi: "FF6B9D"), Color(gpdpjqfnbi: "FF85A2")],
+                            colors: [Color(  "FF6B9D"), Color(  "FF85A2")],
                             startPoint: .leading,
                             endPoint: .trailing
                         )
@@ -468,7 +348,7 @@ var jjkhezmnsub:  Bool {
             }
             .background(
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "4A4A8C"), Color(gpdpjqfnbi: "2D2D5C")],
+                    colors: [Color(  "4A4A8C"), Color(  "2D2D5C")],
                     startPoint: .top,
                     endPoint: .bottom
                 )
@@ -532,9 +412,9 @@ var pewlr:  Array<Double> {
                 .font(.system(size: 24))
             
             Text(value)
-                .font(.custom("ShootingStarpersonaluse", size: 14))
+                .font(.custom("", size: 14))
                 .fontWeight(.bold)
-                .foregroundColor(Color(gpdpjqfnbi: color))
+                .foregroundColor(Color(  color))
         }
         .padding(12)
         .background(Color.white.opacity(0.2))
@@ -600,7 +480,7 @@ var qvng:  Array<String> {
                 .font(.system(size: 20))
             
             Text(text)
-                .font(.custom("ShootingStarpersonaluse", size: 15))
+                .font(.custom("", size: 15))
                 .foregroundColor(.white.opacity(0.9))
             
             Spacer()
@@ -655,10 +535,10 @@ var opmaepv:  Bool {
     var body: some View {
         HStack(spacing: 12) {
             Text(khyxxtecygj)
-                .font(.custom("ShootingStarpersonaluse", size: 22))
+                .font(.custom("", size: 22))
             
             Text(value)
-                .font(.custom("ShootingStarpersonaluse", size: 20))
+                .font(.custom("", size: 20))
                 .fontWeight(.bold)
                 .foregroundColor(color)
         }

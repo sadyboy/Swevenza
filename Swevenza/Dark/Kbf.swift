@@ -40,9 +40,9 @@ struct Vrnvjilfjnyjn: View {
         ZStack{
             LinearGradient(
                 colors: [
-                    Color(gpdpjqfnbi: "FFE8F0"),
-                    Color(gpdpjqfnbi: "FFF9E6"),
-                    Color(gpdpjqfnbi: "FFE8F0")
+                    Color("FFE8F0"),
+                    Color("FFF9E6"),
+                    Color("FFE8F0")
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing

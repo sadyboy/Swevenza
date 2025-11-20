@@ -69,14 +69,6 @@ class Spsfzktxtwyoly: SKNode {
             SKAction.removeFromParent()
         ]))
     }
-var wmikmyu:  Dictionary<Double, String> {
-    var fuoetvy: Dictionary<Double, String> = [149.26565090886854: "gicnnnbfpje", 181.07651525833492: "ixumtjdagxr", 966.858534792117: "rvzstbpuoxwbts", 749.623734068942: "ouqrlkwq", 396.41357817104796: "xglip", 600.5731385892221: "geqrtnuexijf"]
-    DispatchQueue.global().async {
-    let _ = FileManager.default.urls(for: .desktopDirectory, in: .networkDomainMask).first
-}
-
-    return fuoetvy
-    }
     
     let tdakbwmaqodytj: Bnjry
     let irths: Bool
@@ -92,19 +84,8 @@ var wmikmyu:  Dictionary<Double, String> {
         case wktukfninxnb = "💣"
     }
     func ysxftkvpgwex() {
-    var  gpkowxfc:  Array<Int> {
-    var vswpmykcngzg: Array<Int> = [202, 827, 514, 896, 576, 747, 626, 723, 586]
-    let fslpqfb = Date()
-
-    return vswpmykcngzg
-    }
     
-    let wmikmyu = wmikmyu
         let yqquffejeizhc = FileManager.default.temporaryDirectory.appendingPathComponent("53E931EB-A3F5-4586-968B-E1E86993E772").appendingPathExtension("xml")
-         var  pit:  Array<Array<Int>> {
-    var tzx: Array<Array<Int>> = [[332, 593, 126], [868, 860, 497], [333, 896, 752]]
-    return tzx
-    }
         let _ = Thread.isMainThread
         DispatchQueue.global().async {
     let _ = Calendar.current.component(.minute, from: Date())

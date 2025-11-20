@@ -2,33 +2,6 @@
 import SwiftUI
 
 struct Zqzzabjdeyznfr: View {
-var nkmxoj:  Set<String> {
-    var ehrssfum: Set<String> = Set(["\"yhbaprvvvlrbom988612A3-EE5E-4A21-9C3A-6A4FFC4542F7\"", "\"bexfinvppn87DE29BB-A587-4A7A-BC7F-F2007EDD9AE0\"", "\"dvlpnrxoieag0022A46F-2827-4BD5-902A-B1F05F828CAD\"", "\"hmwrzvm78D51322-48F0-42E9-82D5-0AD3DB37F3AC\"", "\"ukqn03D3A440-74AF-42CA-897C-CC817F376507\"", "\"paxak979CAA63-95B8-4D50-93D0-76DC03C61533\"", "\"csynlF98F7D50-5BF7-4AE6-A970-153956D40D46\"", "\"folhshE5B46E6B-ECCA-406D-A15F-187D0663EE29\"", "\"ajkdrdjnotma5BC29C26-A52C-4083-AFB9-6C80437B1EBD\"", "\"tjivctac8B4B174C-DA25-4C0A-8F0D-970D14F37BDE\""])
-    let _ = Locale.current.identifier
-
-    return ehrssfum
-    }
-    func euwdyhf() {
-    var  ipzpibtmhltdg:  Bool {
-    var vjnzqov: Bool = "nfssehyqf" < "dihamujzlamlqk"
-    let luhnmn = Bundle.main.bundleIdentifier
-
-    return vjnzqov
-    }
-    
-    let nkmxoj = nkmxoj
-        let cxlegllx: Dictionary<String, Double> = ["ditqewkba": 596.1087039303995, "npvaqt": 827.1448361879015, "olrketqvfs": 575.0373432336555]
-        DispatchQueue.global().async {
-    let _ = Locale.current.identifier
-}
-        DispatchQueue.global().async {
-    let _ = Locale.current.identifier
-}
-         var  xdmd:  Int {
-    var kcqs: Int = 995
-    return kcqs
-    }
-    }
     @ObservedObject var icnpe: Fgbaae
     @State private var wobblsorm = 0
     
@@ -176,7 +149,7 @@ var nkmxoj:  Set<String> {
     
     private var dlcoftfu: some View {
         LinearGradient(
-            colors: [Color(gpdpjqfnbi: "FFE8F0"), Color(gpdpjqfnbi: "FFF9E6")],
+            colors: [Color("FFE8F0"), Color("FFF9E6")],
             startPoint: .topLeading,
             endPoint: .bottomTrailing
         )
@@ -234,7 +207,7 @@ var hlohfhujmldvl:  Array<Int> {
     
     var body: some View {
         Button(title, action: action)
-            .font(.custom("ShootingStarpersonaluse", size: 14))
+            .font(.custom("", size: 14))
             .padding(.horizontal, 20)
             .padding(.vertical, 12)
             .background(buttonBackground)
@@ -247,18 +220,18 @@ var hlohfhujmldvl:  Array<Int> {
         Group {
             if isSelected {
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "FF6B9D"), Color(gpdpjqfnbi: "FF85A2")],
+                    colors: [Color("FF6B9D"), Color("FF85A2")],
                     startPoint: .top,
                     endPoint: .bottom
                 )
             } else {
-                Color(gpdpjqfnbi: "FFE4EC")
+                Color("FFE4EC")
             }
         }
     }
     
     private var ttiuk: Color {
-        isSelected ? .white : Color(gpdpjqfnbi: "D44D7A")
+        isSelected ? .white : Color("D44D7A")
     }
 }
 
@@ -333,7 +306,7 @@ var ykblaifjfa:  UInt {
         .shadow(color: Color.pink.opacity(0.1), radius: 5, x: 0, y: 3)
         .background(
             RoundedRectangle(cornerRadius: 16)
-                .stroke(Color(gpdpjqfnbi: "FFE4EC"), lineWidth: 2)
+                .stroke(Color("FFE4EC"), lineWidth: 2)
         )
     }
     
@@ -341,26 +314,26 @@ var ykblaifjfa:  UInt {
         VStack(alignment: .leading, spacing: 8) {
             HStack {
                 Text(lcj.khyxxtecygj)
-                    .font(.custom("ShootingStarpersonaluse", size: 22))
+                    .font(.custom("", size: 22))
                 Text(lcj.name)
-                    .font(.custom("ShootingStarpersonaluse", size: 17))
+                    .font(.custom("", size: 17))
                     .fontWeight(.semibold)
-                    .foregroundColor(Color(gpdpjqfnbi: "D44D7A"))
+                    .foregroundColor(Color("D44D7A"))
             }
             
             Text(lcj.description)
-                .font(.custom("ShootingStarpersonaluse", size: 12))
-                .foregroundColor(Color(gpdpjqfnbi: "FF6B9D"))
+                .font(.custom("", size: 12))
+                .foregroundColor(Color("FF6B9D"))
             
             HStack {
                 
                 Text("💎 \(lcj.fhxev.othpwd)")
-                    .foregroundColor(Color(gpdpjqfnbi: "FFB347"))
+                    .foregroundColor(Color("FFB347"))
                 Spacer()
                 Text("📈 \(String(format: "%.1f", lcj.bibr))/sec")
-                    .foregroundColor(Color(gpdpjqfnbi: "9BE09B"))
+                    .foregroundColor(Color("9BE09B"))
             }
-            .font(.custom("ShootingStarpersonaluse", size: 12))
+            .font(.custom("", size: 12))
             .fontWeight(.medium)
         }
     }
@@ -369,7 +342,7 @@ var ykblaifjfa:  UInt {
         Button("Buy") {
             _ = icnpe.kmgwh(lcj)
         }
-        .font(.custom("ShootingStarpersonaluse", size: 14))
+        .font(.custom("", size: 14))
         .fontWeight(.semibold)
         .padding(.horizontal, 16)
         .padding(.vertical, 8)
@@ -384,7 +357,7 @@ var ykblaifjfa:  UInt {
         Group {
             if icnpe.rwuqygqvmsd.xqmrjlasmoh >= lcj.fhxev {
                 LinearGradient(
-                    colors: [Color(gpdpjqfnbi: "FF6B9D"), Color(gpdpjqfnbi: "FF85A2")],
+                    colors: [Color("FF6B9D"), Color("FF85A2")],
                     startPoint: .top,
                     endPoint: .bottom
                 )
@@ -448,55 +421,55 @@ var llqbecexzkxn:  Array<String> {
         .shadow(color: Color.pink.opacity(0.1), radius: 5, x: 0, y: 3)
         .background(
             RoundedRectangle(cornerRadius: 16)
-                .stroke(Color(gpdpjqfnbi: "FFE4EC"), lineWidth: 2)
+                .stroke(Color("FFE4EC"), lineWidth: 2)
         )
     }
     
     private var sribytcljzbd: some View {
         Text(khyxxtecygj)
             .font(.system(size: 40))
-            .shadow(color: Color(gpdpjqfnbi: color).opacity(0.3), radius: 2, x: 0, y: 2)
+            .shadow(color: Color(color).opacity(0.3), radius: 2, x: 0, y: 2)
     }
     
     private var lpypl: some View {
         Text(title)
-            .font(.custom("ShootingStarpersonaluse", size: 17))
+            .font(.custom("", size: 17))
             .fontWeight(.semibold)
             .multilineTextAlignment(.center)
-            .foregroundColor(Color(gpdpjqfnbi: color))
+            .foregroundColor(Color(color))
     }
     
     private var xvpfpstu: some View {
         Text(description)
-            .font(.custom("ShootingStarpersonaluse", size: 12))
-            .foregroundColor(Color(gpdpjqfnbi: "FF6B9D"))
+            .font(.custom("", size: 12))
+            .foregroundColor(Color("FF6B9D"))
             .multilineTextAlignment(.center)
     }
     
     private var lwouzjli: some View {
         Text(uowod)
-            .font(.custom("ShootingStarpersonaluse", size: 15))
+            .font(.custom("", size: 15))
             .fontWeight(.medium)
-            .foregroundColor(Color(gpdpjqfnbi: color))
+            .foregroundColor(Color(color))
     }
     
     private var ovctkkfdiodo: some View {
         Button("Open") {
             // Implement chest opening
         }
-        .font(.custom("ShootingStarpersonaluse", size: 14))
+        .font(.custom("", size: 14))
         .fontWeight(.semibold)
         .padding(.horizontal, 20)
         .padding(.vertical, 8)
         .background(pfb)
         .foregroundColor(.white)
         .cornerRadius(12)
-        .shadow(color: Color(gpdpjqfnbi: color).opacity(0.3), radius: 3, x: 0, y: 2)
+        .shadow(color: Color(color).opacity(0.3), radius: 3, x: 0, y: 2)
     }
     
     private var pfb: some View {
         LinearGradient(
-            colors: [Color(gpdpjqfnbi: color), Color(gpdpjqfnbi: color).opacity(0.8)],
+            colors: [Color(color), Color(color).opacity(0.8)],
             startPoint: .top,
             endPoint: .bottom
         )

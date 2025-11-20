@@ -123,9 +123,9 @@ var gwbje:  Set<Int> {
         ZStack{
             LinearGradient(
                 colors: [
-                    Color(gpdpjqfnbi: "FFE8F0"),
-                    Color(gpdpjqfnbi: "FFF9E6"),
-                    Color(gpdpjqfnbi: "FFE8F0")
+                    Color("FFE8F0"),
+                    Color("FFF9E6"),
+                    Color("FFE8F0")
                 ],
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
@@ -140,9 +140,9 @@ var gwbje:  Set<Int> {
                     ZStack{
                         LinearGradient(
                             colors: [
-                                Color(gpdpjqfnbi: "FFE8F0"),
-                                Color(gpdpjqfnbi: "FFF9E6"),
-                                Color(gpdpjqfnbi: "FFE8F0")
+                                Color("FFE8F0"),
+                                Color("FFF9E6"),
+                                Color("FFE8F0")
                             ],
                             startPoint: .topLeading,
                             endPoint: .bottomTrailing
@@ -151,9 +151,9 @@ var gwbje:  Set<Int> {
                         Sojhjhq(rcskcghh: $gshhnhk, gxlastb: $gmwysfrjrbgr, qejk: $xwszluwpqytms, ctbsim: $adg).onAppear{}
                         LinearGradient(
                             colors: [
-                                Color(gpdpjqfnbi: "FFE8F0"),
-                                Color(gpdpjqfnbi: "FFF9E6"),
-                                Color(gpdpjqfnbi: "FFE8F0")
+                                Color( "FFE8F0"),
+                                Color( "FFF9E6"),
+                                Color( "FFE8F0")
                             ],
                             startPoint: .topLeading,
                             endPoint: .bottomTrailing
@@ -176,9 +176,9 @@ var gwbje:  Set<Int> {
                     ZStack{
                         LinearGradient(
                             colors: [
-                                Color(gpdpjqfnbi: "FFE8F0"),
-                                Color(gpdpjqfnbi: "FFF9E6"),
-                                Color(gpdpjqfnbi: "FFE8F0")
+                                Color(  "FFE8F0"),
+                                Color(  "FFF9E6"),
+                                Color(  "FFE8F0")
                             ],
                             startPoint: .topLeading,
                             endPoint: .bottomTrailing
@@ -596,9 +596,9 @@ var zmuttcaf:  Dictionary<Double, String> {
             ZStack(alignment: .center) {
                 LinearGradient(
                     colors: [
-                        Color(gpdpjqfnbi: "FFE8F0"),
-                        Color(gpdpjqfnbi: "FFF9E6"),
-                        Color(gpdpjqfnbi: "FFE8F0")
+                        Color( "FFE8F0"),
+                        Color( "FFF9E6"),
+                        Color( "FFE8F0")
                     ],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
